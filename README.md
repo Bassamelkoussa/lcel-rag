@@ -1,1 +1,1 @@
-A repo for the latest LCEL and RAG techniques
+A repo for the latest LangChain LCEL and RAG techniques
